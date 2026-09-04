@@ -113,7 +113,7 @@ Create a `.env` file in `backend/` with your Gemini API key:
 Then run:
 
 ```bash
-python app.py
+python backend.py
 ```
 
 The API starts at `http://localhost:5000`.
